@@ -8,7 +8,7 @@ I am a developer who loves to code and program things at various scale. From app
 
 ## What are my skils and expertise?
 - ReactJs
-- NoeJs
+- NodeJs
 - ExpressJs
 - DevOps
 - Linux
@@ -16,6 +16,7 @@ I am a developer who loves to code and program things at various scale. From app
 - MongoDB
 - MySQL
 - Microsoft Azure
+- Google Cloud Platform
 - Amazon AWS
 - Product & Project Management
 - And blah blah blah
